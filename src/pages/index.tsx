@@ -1,7 +1,3 @@
-import type { NextPage } from "next";
+import { LandingPage } from "../features/landing-page";
 
-const Home: NextPage = () => {
-  return null;
-};
-
-export default Home;
+export default LandingPage;
